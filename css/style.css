@@ -83,8 +83,8 @@ body {
 		background-color: #fafafa52;
 		margin-right: 0.5%;
 		margin-top: 10px;
-		min-height: 20px;
-	        min-witdh: 20px;
+		height:1280px;
+	        weidth:720px;
 		margin-bottom: 10px;
 }
 
@@ -109,8 +109,6 @@ body {
 		float:left;
 		margin-top: 10px;
 		margin-bottom: 10px;
-	        height:1280px;
-	        weidth:720px;
 }
 
 #wrapper #articles article a:hover{
